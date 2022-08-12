@@ -10,3 +10,10 @@ Checking connectivity... done.
 $ cd ticgit
 $ git remote
 origin
+
+Добавил вторую часть текста:
+Вы можете также указать ключ -v, чтобы просмотреть адреса для чтения и записи, привязанные к репозиторию:
+
+$ git remote -v
+origin https://github.com/schacon/ticgit (fetch)
+origin https://github.com/schacon/ticgit (push)
